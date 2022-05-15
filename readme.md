@@ -13,8 +13,8 @@
 </br>
 
 <div>
-    <a href="https://github.com/patricksouzagois">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricksouzagois&layout=compact&langs_count=7&theme=dracula"/>
+    <a href="https://github.com/patricksouzagois" margin-top='60px'>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricksouzagois&layout=compact&langs_count=7&theme=dracula"/><br>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patricksouzagois&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </a>
 </div>
@@ -28,8 +28,6 @@
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 </br>
-
-<img align="right" alt="me icon" height="150" width="150" src="https://tenor.com/view/cat-typing-fast-funny-cute-gif-13043586.gif"/>
 
 ### Contato
 
